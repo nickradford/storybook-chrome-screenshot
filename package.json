@@ -93,7 +93,7 @@
     "mkdirp": "^0.5.1",
     "node-emoji": "^1.8.1",
     "progress": "^2.0.0",
-    "puppeteer": "^1.6.1",
+    "puppeteer": "^1.12.1",
     "query-string": "^6.1.0",
     "sanitize-filename": "^1.6.1",
     "util-inspect": "^0.1.8"
